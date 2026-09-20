@@ -594,10 +594,4 @@ GitHub:
 
 ---
 
-## License
-
-This project is available for educational and personal use.
-
-````
-
 
